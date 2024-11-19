@@ -24,7 +24,7 @@ criaCartao(
 
 criaCartao(
     'geografia',
-    'qula a capital da Belgica?',
+    'qual a capital da Belgica?',
     'a capital da belgica é Bruxelas.'
 )
 criaCartao(
